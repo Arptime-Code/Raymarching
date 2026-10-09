@@ -37,7 +37,7 @@ let tmpLoop = Date.now();
 //Shader Constants
 //Player inputs
 const playerPosition = new Float32Array([
-  0.0, 0.0, 5.0
+  0.0, 1.0, 5.0
 ]);
 
 const playerRotation = new Float32Array([
